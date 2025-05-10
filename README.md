@@ -1,5 +1,8 @@
 # Case Converter Ulauncher Extension
 
+Original repo:
+https://github.com/d-enk/ulauncher-case-converter
+
 Quickly change the case (upper, lower, camel, pascal, snake, etc) by [case-converter](https://pypi.org/project/case-converter/)
 
 ```bash
